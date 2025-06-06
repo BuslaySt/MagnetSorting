@@ -1,6 +1,3 @@
 /venv
-/data
-*.xlsx
-/MLgrid2
-Seek.docx
-/SweetViz-Demonstration-main
+/catboost_info
+/Daniil-MLgrid2
